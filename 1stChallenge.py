@@ -1,4 +1,4 @@
-# Program that prints the Max digit, Min digit and the Sum.
+# Program that prints the Max digit, Min digit and the Sum of and Integer.
 
 num = 3412560879
 
