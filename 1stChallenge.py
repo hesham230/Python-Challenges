@@ -2,7 +2,7 @@
 
 num = 3412560879
 
-# Function to extract the maximum digit in a number
+# Function to extract the maximum digit in a number.
 def maxDigit():
   maximum = 0
   for digit in str(num):
