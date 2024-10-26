@@ -1,4 +1,4 @@
-# Write a program that reads two numbers of equal length and prints a new number.
+# A program that reads two numbers of equal length and prints a new number.
 # In each position, the digit in the new number should be the minimum of the two digits
 # found in that position in the original numbers.
 
