@@ -17,4 +17,4 @@ for i in range(len(num) - 1):
 
 # Print the results
 print("Original number:", num)
-print("New number:\t", new_number)
+print("New number:", new_number)
