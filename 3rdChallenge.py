@@ -5,7 +5,7 @@ num = input("Enter number please: ")
 new_number = ""
 
 # loop over two digits in the number
-for i in range(len(num) - 1):
+for i in range(len(num) -1):
     d1, d2 = num[i], num[i + 1]  
     # find the smallest digit 
     small_digit = d1 if d1 < d2 else d2
