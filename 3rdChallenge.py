@@ -1,3 +1,7 @@
+# A program that reads a number of some length. 
+# The program goes through each pair of digits and extracts the small digit from it.
+#  The program prints the new number received.
+
 # Get number from the user
 num = input("Enter number please: ")
 
