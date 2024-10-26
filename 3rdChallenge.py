@@ -1,6 +1,4 @@
-number = 84372216
-
-# # Get number from the user
+# Get number from the user
 num = input("Enter number please: ")
 
 # variable to save the new number
